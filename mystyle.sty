@@ -1,0 +1,26 @@
+% This document contains all the packages used in the thesis 
+
+% ================================================================
+% load bibliography
+\usepackage[sorting=none]{biblatex}
+\addbibresource{references.bib}
+
+% ================================================================
+\usepackage{verbatim} % allows comment block
+
+% ================================================================
+% custom commands
+
+% reference section + name
+\newcommand*{\fullref}[1]{\hyperref[{#1}]{\autoref*{#1} \nameref*{#1}}} % One single link
+
+% ================================================================
+% tables
+\usepackage{tabulary}
+
+% ================================================================
+% figures
+\usepackage{rotating} %sideways figure
+
+% ================================================================
+\usepackage[toc,page]{appendix} %appendix

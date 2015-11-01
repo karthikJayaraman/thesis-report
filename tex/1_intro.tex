@@ -1,0 +1,65 @@
+\chapter{Introduction}\label{ch:intro}
+
+\begin{comment}
+	Stages in a thesis introduction:
+      ********* state the general topic and give some background --> HAI
+      
+      ********* define the terms and scope of the topic --> (in Scope)
+      
+      ********* outline the current situation
+      ********* evaluate the current situation (advantages/ disadvantages) and identify the gap
+      
+      ********* identify the importance of the proposed research
+      
+      state the research problem/ questions
+      ********* state the research aims and/or research objectives  --> (in objectives)
+      ********* state the hypotheses  --> (in objectives)
+      
+      ********* outline the order of information in the thesis --> (in Thesis Outline)
+      outline the methodology --> (in Thesis Outline)
+\end{comment}
+
+	\section{Background} \label{sec:intro_bg}
+      % state the general topic and give some background
+      There is an estimated 200,000 hospital acquired infections (HAI) each year in Australia \cite{ausHAI}. The major causes of transmission of HAIs are believed to be direct or indirect contact "between the patient, the staff and the environment" \cite{airTrans}. To minimise the occurrence of HAIs, hospitals and governments have put in place various policies and guidelines. These include practices such as: routine hand hygiene, patient flow management, quarantine procedures \cite{WHOHAI}. These practices have been successful for inpatient treatment, where there is strict monitoring and control of the patients' environment. However, these policies are more difficult to uphold during out-patient treatment where the individuals are free to move about in the hospital environment and interact with other people.
+
+      % outline current situation + identify the gap
+      Cystic Fibrosis (CF) is the most common lethal genetic disease in Caucasian populations \cite{OSullivan20091891}. CF patients experience chronic respiratory infections and inflammation \cite{flume2007cystic}. Cross infection amongst CF patients is a high occurrence and multiple cases of the spread of  \textit{Pseudomonas aeruginosa} strains by social contact and proximity has been well documented in \cite{govan1993evidence, cheng1996spread}. Furthermore, the delivery of health care for CF patients has shifted from inpatient to outpatient clinics and the home so as to provide chronic suppressive treatments and reduce days of hospitalization \cite{infectionCF}. Hence, there is an emerging need to reduce cross infection among CF patients receiving outpatient health care.
+
+	\section{Research Overview} \label{sec:intro_aim}
+    	% state the hypotheses
+    	There is speculation that the patient flow within the hospital out-patient environment allows for opportunities for close contact among CF patients. Our hypothesis is that patient encounters can be tracked using lightweight indoor localisation technologies allowing for interventions to improve patient flow, reduce patient contact, and reduce HAIs.
+        
+    	The aim of this thesis is to identify areas of potential cross infection in the hospital out-patient environment. The project will accomplish this by utilising Real-Time Locating Systems (RTLS) to track CF patients movements and dwell times. Social network analysis (SNA) will make use of the gathered mobility data into identifying high risk areas for cross infection.
+    
+      \subsection{Objectives} \label{ssec:intro_aim_objectives}
+      	To successfully complete this thesis, the following objectives must be met:
+        \begin{enumerate}
+			\item Investigation into an accurate and scalable indoor RTLS approach for tracking patient movements.
+            \item Development of a smart-phone application to accurately track the position of the CF patient indoors.
+            \item Development of algorithms to identify high risk areas for CF patients in the hospital out-patient environment.
+            \item Implementation and testing of the software system to identify areas of improvement and practicality of system.
+		\end{enumerate}
+
+	  % define the terms and scope of the topic 
+      \subsection{Scope} \label{ssec:intro_aim_scope}
+      	The scope of this thesis is limited to the development of the RTLS using smart-phone software on the Android operating system, and its user interface on the desktop browser. The system will solely be developed for use in solving cross infection amongst CF patients. Experimentation is limited to the Randwick hospital environment in Sydney, Australia. The subjects used for testing will be CF patients. 
+      
+      	The RTLS implementation will involve the Android environment due to following factors:
+		\begin{itemize}
+			\item presence of low cost embedded sensors in smart-phones
+            \item ubiquity and support available for android development
+            \item ease and simplicity involved in implementation
+		\end{itemize}
+    
+    % outline the order of information in the thesis --> (in Thesis Outline)
+    % outline the methodology --> (in Thesis Outline)
+    \section{Thesis Outline} \label{sec:intro_outline}
+    
+    \textbf{Chapter \ref{ch:litRev}} is the study of current literature relevant to this thesis. The topics include an analysis of the current state of RTLS specific to hospital environments, and the android smart-phone environment. There is also further study into the use of SNA with the aim of reducing the spread of infections.
+    
+    \textbf{Chapter \ref{ch:method}} presents the the design of the software system. It outlines the experiments conducted, and the algorithms utilised in the software.
+    
+    %\textbf{Chapter \ref{ch:experiment}} presents the results of the experiments conducted.
+    
+    \textbf{Chapter \ref{ch:conclusion}} details a summary of the current work completed for Thesis A. It outlines the planned activities for Thesis B. 

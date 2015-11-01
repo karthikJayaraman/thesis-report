@@ -1,0 +1,69 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Background}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Research Overview}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Objectives}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Scope}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Thesis Outline}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Literature Review}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}RTLS in Health Care}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Indoor Positioning Technologies}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Pedestrian Dead Reckoning}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Step Detection}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Step Length Calculation}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Heading Estimation}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Direct Sensing}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Triangulation}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}Pattern-Recognition}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.5}Comparison among technologies}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Social Network Analysis (SNA)}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Methodology}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}PDR Implementation}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Experimental Methods}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Step Detection Experiment}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Step Length Experiment}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}Map Matching Experiment}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Results}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclusion}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Future Work}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}PDR Design}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}SNA}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.3}Software Design}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.4}Field Testing}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Appendices}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preliminary Results}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Screen Shots}{27}

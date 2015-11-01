@@ -1,0 +1,1219 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.6.1)  1 NOV 2015 13:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(./unswthesis.cls
+Document Class: unswthesis 2015/04/30 v2.0.1 Faculty of Engineering, University
+ of NSW Thesis Class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip41
+\f@ncyO@elh=\skip42
+\f@ncyO@erh=\skip43
+\f@ncyO@olh=\skip44
+\f@ncyO@orh=\skip45
+\f@ncyO@elf=\skip46
+\f@ncyO@erf=\skip47
+\f@ncyO@olf=\skip48
+\f@ncyO@orf=\skip49
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count79
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip50
+\L@UnitsRaiseTextstyle=\skip51
+\L@UnitsRaiseScriptstyle=\skip52
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip53
+\belowcaptionskip=\skip54
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/sauerj/collect.sty
+Package: collect 2004/09/12 v0.9 collect the contents of an environment
+\CE@tmp@out=\write3
+)
+\CE@@@bstract@out=\write4
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+\botmargin=\skip55
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(./mystyle.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2013/11/25 v2.8a programmable bibliographies (PK/JW/AB)
+
+
+Package biblatex Warning: No "backend" specified, using Biber backend.
+(biblatex)                To use BibTeX, load biblatex with 
+(biblatex)                the "backend=bibtex" option.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex2.sty
+Package: biblatex2 2013/11/25 v2.8a programmable bibliographies (biber) (PK/JW/
+AB)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count92
+)
+\etb@tempcnta=\count93
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count94
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count95
+\c@listtotal=\count96
+\c@listcount=\count97
+\c@liststart=\count98
+\c@liststop=\count99
+\c@citecount=\count100
+\c@citetotal=\count101
+\c@multicitecount=\count102
+\c@multicitetotal=\count103
+\c@instcount=\count104
+\c@maxnames=\count105
+\c@minnames=\count106
+\c@maxitems=\count107
+\c@minitems=\count108
+\c@citecounter=\count109
+\c@savedcitecounter=\count110
+\c@uniquelist=\count111
+\c@uniquename=\count112
+\c@refsection=\count113
+\c@refsegment=\count114
+\c@maxextratitle=\count115
+\c@maxextratitleyear=\count116
+\c@maxextrayear=\count117
+\c@maxextraalpha=\count118
+\c@abbrvpenalty=\count119
+\c@highnamepenalty=\count120
+\c@lownamepenalty=\count121
+\c@maxparens=\count122
+\c@parenlevel=\count123
+\blx@tempcnta=\count124
+\blx@tempcntb=\count125
+\blx@tempcntc=\count126
+\blx@maxsection=\count127
+\blx@maxsegment@0=\count128
+\blx@notetype=\count129
+\blx@parenlevel@text=\count130
+\blx@parenlevel@foot=\count131
+\blx@sectionciteorder@0=\count132
+\labelnumberwidth=\skip56
+\labelalphawidth=\skip57
+\shorthandwidth=\skip58
+\biblabelsep=\skip59
+\bibitemsep=\skip60
+\bibnamesep=\skip61
+\bibinitsep=\skip62
+\bibparsep=\skip63
+\bibhang=\skip64
+\blx@bcfin=\read1
+\blx@bcfout=\write5
+\c@mincomprange=\count133
+\c@maxcomprange=\count134
+\c@mincompwidth=\count135
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count136
+\c@savedafterword=\count137
+\c@annotator=\count138
+\c@savedannotator=\count139
+\c@author=\count140
+\c@savedauthor=\count141
+\c@bookauthor=\count142
+\c@savedbookauthor=\count143
+\c@commentator=\count144
+\c@savedcommentator=\count145
+\c@editor=\count146
+\c@savededitor=\count147
+\c@editora=\count148
+\c@savededitora=\count149
+\c@editorb=\count150
+\c@savededitorb=\count151
+\c@editorc=\count152
+\c@savededitorc=\count153
+\c@foreword=\count154
+\c@savedforeword=\count155
+\c@holder=\count156
+\c@savedholder=\count157
+\c@introduction=\count158
+\c@savedintroduction=\count159
+\c@namea=\count160
+\c@savednamea=\count161
+\c@nameb=\count162
+\c@savednameb=\count163
+\c@namec=\count164
+\c@savednamec=\count165
+\c@shortauthor=\count166
+\c@savedshortauthor=\count167
+\c@shorteditor=\count168
+\c@savedshorteditor=\count169
+\c@translator=\count170
+\c@savedtranslator=\count171
+\c@labelname=\count172
+\c@savedlabelname=\count173
+\c@institution=\count174
+\c@savedinstitution=\count175
+\c@lista=\count176
+\c@savedlista=\count177
+\c@listb=\count178
+\c@savedlistb=\count179
+\c@listc=\count180
+\c@savedlistc=\count181
+\c@listd=\count182
+\c@savedlistd=\count183
+\c@liste=\count184
+\c@savedliste=\count185
+\c@listf=\count186
+\c@savedlistf=\count187
+\c@location=\count188
+\c@savedlocation=\count189
+\c@organization=\count190
+\c@savedorganization=\count191
+\c@origlocation=\count192
+\c@savedoriglocation=\count193
+\c@origpublisher=\count194
+\c@savedorigpublisher=\count195
+\c@publisher=\count196
+\c@savedpublisher=\count197
+\c@language=\count198
+\c@savedlanguage=\count199
+\c@pageref=\count200
+\c@savedpageref=\count201
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2013/11/25 v2.8a biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 
+\c@textcitecount=\count202
+\c@textcitetotal=\count203
+\c@textcitemaxnames=\count204
+\c@biburlnumpenalty=\count205
+\c@biburlucpenalty=\count206
+\c@biburllcpenalty=\count207
+\c@smartand=\count208
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count209
+\c@bbx:relatedtotal=\count210
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2013/11/25 v2.8a biblatex citation style (PK/JW/AB)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read2
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2008/12/01 v0.9 tabulary package (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen113
+\extrarowheight=\dimen114
+\NC@list=\toks18
+\extratabsurround=\skip65
+\backup@length=\skip66
+)
+\TY@count=\count211
+\TY@linewidth=\dimen115
+\tymin=\dimen116
+\tymax=\dimen117
+\TY@tablewidth=\dimen118
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count212
+\rotFPtop=\skip67
+\rotFPbot=\skip68
+\rot@float@box=\box26
+\rot@mess@toks=\toks19
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count213
+\c@@ppsavesec=\count214
+\c@@ppsaveapp=\count215
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
+)
+\@quotelevel=\count216
+\@quotereset=\count217
+
+(./main.aux (./tex/0_1_abstract.aux) (./tex/0_2_acknowledgements.aux)
+(./tex/0_3_abbreviations.aux) (./tex/1_intro.aux) (./tex/2_litreview.aux)
+(./tex/3_methodology.aux) (./tex/4_Experiment.aux) (./tex/5_Conclusion.aux)
+(./tex/A_1_appendixResults.aux) (./tex/A_2_appendixScreenshots.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count218
+\scratchdimen=\dimen119
+\scratchbox=\box27
+\nofMPsegments=\count219
+\nofMParguments=\count220
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count221
+\MPscratchDim=\dimen120
+\MPnumerator=\count222
+\makeMPintoPDFobject=\count223
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.70166pt, 418.25368pt, 107.55254pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=412.56497pt
+* \textheight=629.33034pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-1.1381pt
+* \headheight=25.0pt
+* \headsep=20.0pt
+* \topskip=11.0pt
+* \footskip=42.67912pt
+* \marginparwidth=71.13188pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\@tmpb@x=\box28
+\@titlewidth=\dimen121
+Package biblatex Info: No input encoding detected.
+(biblatex)             Assuming 'ascii'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'ascii'.
+\openout5 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' not found.
+No file main.bbl.
+Package biblatex Info: Reference section=0 on input line 32.
+Package biblatex Info: Reference segment=0 on input line 32.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 37.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+<crest.pdf, id=1, 147.27522pt x 154.20912pt>
+File: crest.pdf Graphic file (type pdf)
+ <use crest.pdf>
+Package pdftex.def Info: crest.pdf used on input line 37.
+(pdftex.def)             Requested size: 147.27486pt x 154.20872pt.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.79996> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 37.
+ [1
+
+
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./crest
+.pdf>]
+\openout2 = `./tex/0_1_abstract.aux'.
+
+
+(./tex/0_1_abstract.tex
+
+LaTeX Warning: Citation 'ausHAI' on page 2 undefined on input line 2.
+
+) [2
+
+
+]
+\openout2 = `./tex/0_2_acknowledgements.aux'.
+
+ (./tex/0_2_acknowledgements.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+) [3
+
+
+
+]
+\openout2 = `./tex/0_3_abbreviations.aux'.
+
+ (./tex/0_3_abbreviations.tex)
+[4
+
+
+
+] (./main.toc [5
+
+
+])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ [6] (./main.lof
+Overfull \hbox (30.42303pt too wide) in paragraph at lines 17--17
+ [][] []\OT1/cmr/m/n/10.95 Comparison be-tween in-door lo-cal-i-sa-tion tech-no
+lo-gies [[] 
+ []
+
+)
+\tf@lof=\write7
+\openout7 = `main.lof'.
+
+ [7
+
+] (./main.lot
+Overfull \hbox (30.42303pt too wide) in paragraph at lines 7--7
+ [][] []\OT1/cmr/m/n/10.95 Comparison be-tween in-door lo-cal-i-sa-tion tech-no
+lo-gies [[] 
+ []
+
+)
+\tf@lot=\write8
+\openout8 = `main.lot'.
+
+ [8
+
+]
+\openout2 = `./tex/1_intro.aux'.
+
+ (./tex/1_intro.tex
+Chapter 1.
+
+LaTeX Warning: Citation 'ausHAI' on page 1 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'airTrans' on page 1 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'WHOHAI' on page 1 undefined on input line 24.
+
+
+LaTeX Warning: Citation 'OSullivan20091891' on page 1 undefined on input line 2
+7.
+
+
+LaTeX Warning: Citation 'flume2007cystic' on page 1 undefined on input line 27.
+
+
+
+LaTeX Warning: Citation 'govan1993evidence' on page 1 undefined on input line 2
+7.
+
+
+LaTeX Warning: Citation 'cheng1996spread' on page 1 undefined on input line 27.
+
+
+
+LaTeX Warning: Citation 'infectionCF' on page 1 undefined on input line 27.
+
+[1
+
+
+
+
+] [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
+) [3]
+\openout2 = `./tex/2_litreview.aux'.
+
+
+(./tex/2_litreview.tex
+Chapter 2.
+
+LaTeX Warning: Citation 'webster2002analyzing' on page 4 undefined on input lin
+e 8.
+
+
+LaTeX Warning: Citation 'webster2002analyzing' on page 4 undefined on input lin
+e 8.
+
+
+Overfull \hbox (16.39363pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10.95 A sys-tem-atic and struc-tured method, in-spired by the guid
+e-lines of []
+ []
+
+
+LaTeX Warning: Citation 'orwat2008towards' on page 4 undefined on input line 17
+.
+
+
+LaTeX Warning: Citation 'orwat2008towards' on page 4 undefined on input line 17
+.
+
+
+LaTeX Warning: Citation 'boulos2012real' on page 4 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'boulos2012real' on page 4 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'boulos2012real' on page 4 undefined on input line 17.
+
+[4
+
+
+
+] <./img/RTLS_healthcare.png, id=88, 746.79pt x 370.38374pt>
+File: ./img/RTLS_healthcare.png Graphic file (type png)
+
+<use ./img/RTLS_healthcare.png>
+Package pdftex.def Info: ./img/RTLS_healthcare.png used on input line 21.
+(pdftex.def)             Requested size: 298.7107pt x 148.15086pt.
+
+
+LaTeX Warning: Citation 'boulos2012real' on page 5 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'cobbley2011easing' on page 5 undefined on input line 2
+7.
+
+
+LaTeX Warning: Citation 'boulos2012real' on page 5 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'stahl2011measuring' on page 5 undefined on input line 
+27.
+
+
+LaTeX Warning: Citation 'drazen2011using' on page 5 undefined on input line 27.
+
+
+
+LaTeX Warning: Citation 'malik2009rtls' on page 5 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'laskowski2012rtls' on page 5 undefined on input line 3
+0.
+
+
+LaTeX Warning: Citation 'laskowski2012rtls' on page 5 undefined on input line 3
+0.
+
+
+LaTeX Warning: Citation 'boulos2012real' on page 5 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'boulos2012real' on page 5 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'boulos2012real' on page 5 undefined on input line 30.
+
+
+LaTeX Warning: Citation 'drazen2011using' on page 5 undefined on input line 30.
+
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Overfull \hbox (49.2899pt too wide) in paragraph at lines 30--31
+[]\OT1/cmr/m/n/10.95 The im-pact of RTLS sys-tems have been sig-nif-i-cant in t
+he health care in-dus-try. []
+ []
+
+[5 <./img/RTLS_healthcare.png>]
+
+LaTeX Warning: Citation 'boulos2012real' on page 6 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 6 undefined on input li
+ne 40.
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 6 undefined on input li
+ne 40.
+
+[6]
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 7 undefined on input line 42
+.
+
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 7 undefined on input line 42
+.
+
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 7 undefined on input line 46
+.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+LaTeX Warning: Citation 'wu2007pathplan' on page 7 undefined on input line 46.
+
+
+LaTeX Warning: Citation 'harle2013PIndoor' on page 7 undefined on input line 46
+.
+
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 7 undefined on input line 46
+.
+
+
+LaTeX Warning: Citation 'harle2013PIndoor' on page 7 undefined on input line 48
+.
+
+
+LaTeX Warning: Citation 'harle2013PIndoor' on page 7 undefined on input line 48
+.
+
+[7] <./img/stepMotion.png, id=101, 589.20125pt x 222.8325pt>
+File: ./img/stepMotion.png Graphic file (type png)
+
+<use ./img/stepMotion.png>
+Package pdftex.def Info: ./img/stepMotion.png used on input line 59.
+(pdftex.def)             Requested size: 353.52347pt x 133.70053pt.
+
+
+LaTeX Warning: Citation 'zhao2010full' on page 8 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'harle2013PIndoor' on page 8 undefined on input line 64
+.
+
+
+LaTeX Warning: Citation 'harle2013PIndoor' on page 8 undefined on input line 64
+.
+
+
+LaTeX Warning: Citation 'ying2007automatic' on page 8 undefined on input line 6
+6.
+
+
+LaTeX Warning: Citation 'goyal2011strap' on page 8 undefined on input line 67.
+
+
+LaTeX Warning: Citation 'levi1996dead' on page 8 undefined on input line 68.
+
+[8 <./img/stepMotion.png>]
+
+LaTeX Warning: Citation 'harle2013PIndoor' on page 9 undefined on input line 72
+.
+
+
+LaTeX Warning: Citation 'weinberg2002using' on page 9 undefined on input line 7
+2.
+
+
+LaTeX Warning: Citation 'weinberg2002using' on page 9 undefined on input line 7
+2.
+
+
+Overfull \hbox (47.25879pt too wide) in paragraph at lines 72--73
+\OT1/cmr/m/n/10.95 The sim-plest ap-proach to es-ti-mat-ing step length is to a
+s-sign a con-stant value [[]
+ []
+
+
+LaTeX Warning: Citation 'weinberg2002using' on page 9 undefined on input line 7
+4.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+LaTeX Warning: Citation 'weinberg2002using' on page 9 undefined on input line 7
+4.
+
+
+LaTeX Warning: Citation 'harle2013PIndoor' on page 9 undefined on input line 78
+.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 9 undefined on input line 83
+.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+LaTeX Warning: Citation 'willis2005rfid' on page 9 undefined on input line 83.
+
+
+Underfull \vbox (badness 5985) has occurred while \output is active []
+
+ [9]
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 10 undefined on input line 8
+5.
+
+<./img/RFIDschema.png, id=109, 1168.365pt x 296.10625pt>
+File: ./img/RFIDschema.png Graphic file (type png)
+
+<use ./img/RFIDschema.png>
+Package pdftex.def Info: ./img/RFIDschema.png used on input line 89.
+(pdftex.def)             Requested size: 467.33772pt x 118.44038pt.
+
+Overfull \hbox (61.57274pt too wide) in paragraph at lines 89--90
+ [][] 
+ []
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 10 undefined on input l
+ine 90.
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 10 undefined on input l
+ine 95.
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 10 undefined on input l
+ine 95.
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 10 undefined on input l
+ine 95.
+
+
+Overfull \hbox (4.53836pt too wide) in paragraph at lines 95--96
+\OT1/cmr/m/n/10.95 ob-jects or peo-ple through in-frared emit-ters and re-ceive
+rs [[]
+ []
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 10 undefined on input l
+ine 97.
+
+[10 <./img/RFIDschema.png>]
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 11 undefined on input l
+ine 100.
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 11 undefined on input l
+ine 100.
+
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 11 undefined on input line 1
+00.
+
+[11] <./img/RTLS_tech.png, id=118, 498.86375pt x 230.8625pt>
+File: ./img/RTLS_tech.png Graphic file (type png)
+
+<use ./img/RTLS_tech.png>
+Package pdftex.def Info: ./img/RTLS_tech.png used on input line 108.
+(pdftex.def)             Requested size: 299.32056pt x 138.51855pt.
+
+
+LaTeX Warning: Citation 'Dsouza2011emergency' on page 12 undefined on input lin
+e 109.
+
+
+LaTeX Warning: Citation 'Dsouza2011emergency' on page 12 undefined on input lin
+e 109.
+
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 12 undefined on input line 1
+31.
+
+<./img/triangulation.png, id=119, 251.94125pt x 187.70125pt>
+File: ./img/triangulation.png Graphic file (type png)
+
+<use ./img/triangulation.png>
+Package pdftex.def Info: ./img/triangulation.png used on input line 135.
+(pdftex.def)             Requested size: 151.16591pt x 112.62161pt.
+ [12 <./img/RTLS_tech.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+
+LaTeX Warning: Citation 'zheng2010smart' on page 13 undefined on input line 140
+.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+LaTeX Warning: Citation 'zheng2010smart' on page 13 undefined on input line 140
+.
+
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 13 undefined on input line 1
+40.
+
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 13 undefined on input line 1
+44.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 13 undefined on input line 1
+48.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+LaTeX Warning: Citation 'fallah2013indoor' on page 13 undefined on input line 1
+48.
+
+[13 <./img/triangulation.png>]
+
+LaTeX Warning: Citation 'mautz2011survey' on page 14 undefined on input line 15
+0.
+
+
+LaTeX Warning: Citation 'mautz2011survey' on page 14 undefined on input line 15
+2.
+
+
+LaTeX Warning: Citation 'mautz2011survey' on page 14 undefined on input line 15
+2.
+
+
+LaTeX Warning: Citation 'mautz2011survey' on page 14 undefined on input line 15
+2.
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 14 undefined on input l
+ine 154.
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 14 undefined on input l
+ine 154.
+
+
+Overfull \hbox (2.10504pt too wide) in paragraph at lines 154--155
+\OT1/cmr/m/n/10.95 in-door en-vi-ron-ment into a database (i.e., the ra-dio map
+) [[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+<./img/compFig.png, id=132, 605.26125pt x 249.93375pt>
+File: ./img/compFig.png Graphic file (type png)
+ <use ./img/compFig.png>
+Package pdftex.def Info: ./img/compFig.png used on input line 162.
+(pdftex.def)             Requested size: 242.1002pt x 99.97173pt.
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 15 undefined on input l
+ine 163.
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 15 undefined on input l
+ine 163.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+[]\OT1/cmr/m/n/10.95 Figure 2.6: Com-par-i-son be-tween in-door lo-cal-i-sa-tio
+n tech-nolo-gies
+ []
+
+<./img/compTable.png, id=133, 655.44875pt x 226.8475pt>
+File: ./img/compTable.png Graphic file (type png)
+
+<use ./img/compTable.png>
+Package pdftex.def Info: ./img/compTable.png used on input line 171.
+(pdftex.def)             Requested size: 458.81099pt x 158.79216pt.
+
+Overfull \hbox (46.24602pt too wide) in paragraph at lines 171--172
+ [][] 
+ []
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 15 undefined on input l
+ine 172.
+
+
+LaTeX Warning: Citation 'mainetti2014Indoorlit' on page 15 undefined on input l
+ine 172.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]\OT1/cmr/m/n/10.95 Table 2.1: Com-par-i-son be-tween in-door lo-cal-i-sa-tion
+ tech-nolo-gies
+ []
+
+
+LaTeX Warning: Citation 'sri2008SocialNEt' on page 15 undefined on input line 1
+82.
+
+
+Underfull \vbox (badness 6236) has occurred while \output is active []
+
+ [15 <./img/compFig.png> <./img/compTable.png>]
+
+LaTeX Warning: Citation 'christley2005infection' on page 16 undefined on input 
+line 184.
+
+) [16]
+\openout2 = `./tex/3_methodology.aux'.
+
+ (./tex/3_methodology.tex
+Chapter 3.
+<./img/PDRflow.png, id=142, 693.59125pt x 811.03pt>
+File: ./img/PDRflow.png Graphic file (type png)
+ <use ./img/PDRflow.png>
+Package pdftex.def Info: ./img/PDRflow.png used on input line 15.
+(pdftex.def)             Requested size: 346.79477pt x 405.514pt.
+
+[17
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18 <./img/PDRflow.png>]) [19]
+\openout2 = `./tex/4_Experiment.aux'.
+
+ (./tex/4_Experiment.tex
+Chapter 4.
+) [20
+
+
+
+]
+\openout2 = `./tex/5_Conclusion.aux'.
+
+ (./tex/5_Conclusion.tex
+Chapter 5.
+
+LaTeX Warning: Citation 'martone1992incidence' on page 21 undefined on input li
+ne 3.
+
+
+LaTeX Warning: Citation 'plowman2001rate' on page 21 undefined on input line 3.
+
+
+<./img/planGantt.png, id=157, 1434.35875pt x 578.16pt>
+File: ./img/planGantt.png Graphic file (type png)
+
+<use ./img/planGantt.png>
+Package pdftex.def Info: ./img/planGantt.png used on input line 14.
+(pdftex.def)             Requested size: 1721.22194pt x 693.78853pt.
+
+Overfull \hbox (6.80193pt too wide) in paragraph at lines 14--15
+[][] 
+ []
+
+[21
+
+
+
+] [22 <./img/planGantt.png>] [23]) [24]
+
+LaTeX Warning: Empty bibliography on input line 62.
+
+[25
+
+
+
+
+]
+\openout2 = `./tex/A_1_appendixResults.aux'.
+
+ (./tex/A_1_appendixResults.tex
+<./img/stepDetect.png, id=176, 769.87625pt x 452.69125pt>
+File: ./img/stepDetect.png Graphic file (type png)
+
+<use ./img/stepDetect.png>
+Package pdftex.def Info: ./img/stepDetect.png used on input line 6.
+(pdftex.def)             Requested size: 307.94504pt x 181.07329pt.
+
+<./img/mapMatching.png, id=177, 645.41125pt x 553.06625pt>
+File: ./img/mapMatching.png Graphic file (type png)
+
+<use ./img/mapMatching.png>
+Package pdftex.def Info: ./img/mapMatching.png used on input line 13.
+(pdftex.def)             Requested size: 193.62486pt x 165.92114pt.
+) [26
+
+
+ <./img/stepDetect.png> <./img/mapMatching.png>]
+\openout2 = `./tex/A_2_appendixScreenshots.aux'.
+
+ (./tex/A_2_appendixScreenshots.tex
+<./img/screen1.png, id=183, 542.025pt x 963.6pt>
+File: ./img/screen1.png Graphic file (type png)
+ <use ./img/screen1.png>
+Package pdftex.def Info: ./img/screen1.png used on input line 5.
+(pdftex.def)             Requested size: 216.80615pt x 385.43317pt.
+
+<./img/screen2.png, id=184, 542.025pt x 963.6pt>
+File: ./img/screen2.png Graphic file (type png)
+ <use ./img/screen2.png>
+Package pdftex.def Info: ./img/screen2.png used on input line 12.
+(pdftex.def)             Requested size: 271.01183pt x 481.79883pt.
+)
+[27
+
+
+
+ <./img/screen1.png>] [28 <./img/screen2.png>] (./main.aux
+(./tex/0_1_abstract.aux) (./tex/0_2_acknowledgements.aux)
+(./tex/0_3_abbreviations.aux) (./tex/1_intro.aux) (./tex/2_litreview.aux)
+(./tex/3_methodology.aux) (./tex/4_Experiment.aux) (./tex/5_Conclusion.aux)
+(./tex/A_1_appendixResults.aux) (./tex/A_2_appendixScreenshots.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8052 strings out of 493117
+ 133208 string characters out of 6135434
+ 555328 words of memory out of 5000000
+ 11308 multiletter control sequences out of 15000+600000
+ 17151 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,14n,45p,1211b,875s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmu10.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2014/texmf-d
+ist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on main.pdf (36 pages, 1409912 bytes).
+PDF statistics:
+ 228 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+

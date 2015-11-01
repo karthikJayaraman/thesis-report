@@ -1,0 +1,39 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces RTLS components in health care \cite {boulos2012real}}}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Walking Stages and Acceleration Pattern \cite {zhao2010full}}}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces A generalised RFID System\cite {mainetti2014Indoorlit}}}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces A comparison of commonly used RTLS technologies used in hospitals \cite {Dsouza2011emergency}}}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Triangulation-based positioning}}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Comparison between indoor localisation technologies \cite {mainetti2014Indoorlit}}}{15}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces PDR Implementation}}{18}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Thesis Plan}}{22}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Preliminary step detection with peak detection algorithm}}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Preliminary map matching of the PDR and hybrid PDR systems}}{26}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Calibration stage of the RTLS android app}}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Run stage of the RTLS android app}}{28}

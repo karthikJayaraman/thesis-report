@@ -1,0 +1,68 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                         THESIS REPORT 
+%				   PATIENT TRACKING TO REDUCE
+%                       INFECTION SPREAD
+%				     July, 2015 - May, 2016
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[undergrad]{unswthesis}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                      		PREAMBLE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Thesis details
+\thesistitle{Out-patient tracking to reduce transmission of infections}
+\thesisschool{School of Mechanical and Manufacturing Engineering}
+\thesisauthor{Karthik Jayaraman}
+\thesisZid{z3419855}
+\thesistopic{XX00}  % for undergrad theses only
+\thesisdegree{Bachelor of Engineering in Mechatronics}
+\thesisdate{August 2015}
+\thesissupervisor{A/Prof.\ Mark Whitty}% for undergrad theses only
+
+\usepackage{graphicx} 
+\graphicspath{{./img/}}
+
+% custom packages + macros + definitions
+\usepackage{mystyle}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                      		FRONT MATTER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \frontmatter  
+  \maketitle
+  
+	\include{./tex/0_1_abstract}
+	\include{./tex/0_2_acknowledgements}
+	\include{./tex/0_3_abbreviations}
+
+	\tableofcontents
+	\listoffigures  
+	\listoftables  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                      		MAIN MATTER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   \mainmatter
+   
+   	\include{./tex/1_intro}
+    \include{./tex/2_litreview}
+    \include{./tex/3_methodology}
+    \include{./tex/4_Experiment}
+    \include{./tex/5_Conclusion}
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                      		BACK MATTER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\backmatter
+    		\printbibliography[heading=bibintoc]
+            \begin{appendices}
+            	\include{./tex/A_1_appendixResults}
+                \include{./tex/A_2_appendixScreenshots}
+			\end{appendices}
+
+\end{document}
